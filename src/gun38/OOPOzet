@@ -1,0 +1,20 @@
+OOP:
+
+Encapsulation: private, get, set
+
+Inheritance: extends, bir çok classin ortak kısımları için
+             bir paren class yapıp, sonraki classları bu classdan
+             türetilmesine denir.
+
+Polimorphism: bir parent clas'a veya ortak interface
+              sahip classların, istenildiğinde kendi tpinde
+              istenildiğinde parentin tipinde olabilmesine,
+              böylece aynı metodların kullanılmasına imkan vermesidir.
+
+Interface:    birden çok class'ın, aynı şablondan metodlarını üretmesini
+              zorunlu kılan, ve böylece yazılımı planlaştıran yöntemdir.
+              Sadece metod isimlerinin olduğu şablon.
+
+Abstract:     Bir tane interface ve bir tane parent class olacaksa,
+              interface+parent class kullanmak yerine, her ikisini içine alan
+              tek bir class tipidir.
